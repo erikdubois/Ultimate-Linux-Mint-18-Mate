@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
