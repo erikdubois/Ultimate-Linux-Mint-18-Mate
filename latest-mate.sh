@@ -72,10 +72,10 @@
 
 # Latest builds of cinnamon and nemo
 
-sudo add-apt-repository -y ppa:gwendal-lebihan-dev/cinnamon-nightly
-sudo apt-get update 
-sudo apt-get install cinnamon -y
-sudo apt-get upgrade
+#sudo add-apt-repository -y ppa:gwendal-lebihan-dev/cinnamon-nightly
+#sudo apt-get update 
+#sudo apt-get install cinnamon -y
+#sudo apt-get upgrade
 
 
 

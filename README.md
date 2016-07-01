@@ -15,11 +15,11 @@ Ofcourse you can change the theme. I like the mint-y-dark theme which I will use
 
 This is my way of working when installing a new operating system.
 
-First upgrade kernel, nvidia and cinnamon/nemo.
+First upgrade kernel, nvidia and mate/nemo.
 If everything is still working we can install the software and start customizing the system.
 
 
-#1 Kernel, cinnamon and nvidia
+#1 Kernel, mate and nvidia
 
 As described at http://erikdubois.be/ I try to get the latest of everything. This attitude tends to break things. You have been warned. But the best way to learn about linux.
 
@@ -49,23 +49,25 @@ Type in the terminal
 	- ./update-to-the-last-stable-4.x-kernel-vx.sh 
 
 
-![Screenshots](http://i.imgur.com/TM508XD.png)
+![Screenshots](http://i.imgur.com/8LzKIxg.png)
 
 
-<b>Cinnamon</b>
+<b>Mate</b>
 
 
-The very latest cinnamon version can be installed on your system.
+The very latest mate version can be installed on your system.
+
+TO DO ?????????????????????????????????????
 
 Run the script
 
-	- ./latest-cinnamon.sh
+	- ./latest-mate.sh
 
 The script will add a resource.
 
-	# sudo add-apt-repository -y ppa:gwendal-lebihan-dev/cinnamon-nightly
+	# sudo add-apt-repository 
 	# sudo apt-get update 
-	# sudo apt-get install cinnamon -y
+	# sudo apt-get 
 
 
 
@@ -223,7 +225,7 @@ Installation is described at
 
 http://erikdubois.be/category/linux/aurora-conky/
 
-In this downloadfolder you will find an <b>installationscript</b> as well i.e. Auto_LinuxMint_Rebecca_cinnamon_aurora.sh
+In this downloadfolder you will find an <b>installationscript</b> as well i.e. Auto_LinuxMint_Rebecca_mate_aurora.sh
 
 
 But basically unpack the zip file. Make the hidden folder .conky (if it does not exist yet) and place the folder aurora in there.
