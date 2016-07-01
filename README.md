@@ -2,7 +2,7 @@
 
 - Beta - work in progress
 
-Let us first take a screenshot of the initial look of Linux Mint 18 Cinnamon
+Let us first take a screenshot of the initial look of Linux Mint 18 Mate.
 
 ![Screenshots](http://i.imgur.com/KRwzZ9F.png)
 
@@ -10,7 +10,7 @@ Let us first take a screenshot of the initial look of Linux Mint 18 Cinnamon
 Ofcourse you can change the theme. I like the mint-y-dark theme which I will use in the later screenshots.
 
 
-![Screenshots](http://i.imgur.com/TzllSMo.png)
+![Screenshots](http://i.imgur.com/uiSUzGt.png)
 
 
 This is my way of working when installing a new operating system.
