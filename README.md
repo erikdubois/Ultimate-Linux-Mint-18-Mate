@@ -1,4 +1,6 @@
-# Ultimate Linux Mint 18
+# Ultimate Linux Mint 18 Mate
+
+- Beta - work in progress
 
 Let us first take a screenshot of the initial look of Linux Mint 18 Cinnamon
 
