@@ -153,8 +153,6 @@ More documentation on http://erikdubois.be
 ![Screenshots](http://i.imgur.com/pH1TAxp.jpg)
 
 
-![Screenshots](http://i.imgur.com/0BnKVxM.jpg) 
-
 
 ![Screenshots](http://i.imgur.com/Q0XyHD8.jpg) 
 
@@ -350,27 +348,22 @@ http://erikdubois.be/install-plank-linux-mint-17-3-set-preferences-add-themes-au
 
 
 
-7. Folder nemo-scripts
+7. Folder caja-scripts
 ---------------------------
 
-Check out in Nemo (filemanager or explorer in windows)
+Caja (filemanager or explorer in windows) works with extensions. In cinnamon, nemo is the file explorer.
 
-	Edit/Plugins
+	Edit/Preferences/extensions
 
-There you can post actions and plugins in the hidden folders.
+In the future I suppose it will be possible to add extensions. At this point in time not so clear how to do that.
 
-Move the content of the folder config_apps/nemo-scripts-plugins to the hidden folder 
+But if you have scripts of your own that you are using, you can always put them in the folder
 
-	~/.local/share/nemo/scripts
+Move your scripts in the somewhat hidden folder and you will see them in the context-menu later. 
 
-and change to your liking. These are quick fixes and one backup script to a Backup folder.
+	~/.config/caja/scripts
 
-Or just follow the youtube movie to get more details about 3 scripts I have kept over the years.
-
-![Screenshots](http://i.imgur.com/ody9WJO.jpg)
-
-
-[![How to add scripts to nemo](http://i.imgur.com/8lFcYuP.jpg)](https://www.youtube.com/watch?v=JCxxs7IzUbs "How to add scripts to nemo - Click to Watch!")
+![Screenshots](http://i.imgur.com/ZldwBtO.png)
 
 
 
@@ -384,12 +377,15 @@ I have gathered a lot of themes, icons and cursors I like and bundled them here.
 
 https://github.com/erikdubois/themes-icons-pack
 
+I have been creative for a while. 
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png)
+This is linux mint 17.1 cinnamon.
+
+![Screenshots](http://i.imgur.com/irJ3xHz.jpg)
 
 
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
+![Screenshots](http://i.imgur.com/CCgpuCE.jpg)
 
 
 
