@@ -387,13 +387,13 @@ Also check out the caja-actions configuration tool.
 
 ![Screenshots](http://i.imgur.com/V1HVV0z.png)
 
-If you so like to do, you can also choose to open folders with thunar if installed. You can select it in the preferred applications.
+If you like to change the file manager, you can choose to open folders with thunar if installed. You can select it in the preferred applications. Or by the nemo file manager from cinnamon if you like. Just install it.
 
 ![Screenshots](http://i.imgur.com/xGTY1b3.png)
 
 Thunar has its own way to use custom actions for your personal scripting.
 
-By the by nemo file manager is also possible.
+
 
 
 8. Themes and Icons
