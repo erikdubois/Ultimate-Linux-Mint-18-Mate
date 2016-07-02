@@ -1,13 +1,17 @@
 # Ultimate Linux Mint 18 Mate
 
-- Beta - work in progress
 
-Let us first take a screenshot of the initial look of Linux Mint 18 Mate.
+
+
+Let us first take a screenshot of the initial look of Linux Mint 18 Mate after a clean install.
+
 
 ![Screenshots](http://i.imgur.com/KRwzZ9F.png)
 
 
-Ofcourse you can change the theme. I like the mint-y-dark theme which I will use in the later screenshots.
+Ofcourse you can change the theme.
+
+I like the mint-y-dark theme which I will use in the later screenshots.
 
 
 ![Screenshots](http://i.imgur.com/uiSUzGt.png)
@@ -15,11 +19,12 @@ Ofcourse you can change the theme. I like the mint-y-dark theme which I will use
 
 This is my way of working when installing a new operating system.
 
-First upgrade kernel, nvidia and mate/nemo.
-If everything is still working we can install the software and start customizing the system.
+First upgrade kernel, nvidia and caja (if possible).
+
+If everything is still working, we can install the software and start customizing the system.
 
 
-#1 Kernel, mate and nvidia
+#1 Kernel and nvidia
 
 As described at http://erikdubois.be/ I try to get the latest of everything. This attitude tends to break things. You have been warned. But the best way to learn about linux.
 
@@ -53,7 +58,11 @@ Type in the terminal
 
 
 
+
+
 <b>Nvidia</b>
+
+
 
 The last months I have no issues with the drivers coming from Linux. So I do NOT install the Nvidia drivers.
 
@@ -81,11 +90,17 @@ Check on Nvidia.com which driver you should use.
 
 Wait for the installation and reboot.
 
-Regarding graphics I should mention a specific program mate-tweak that was also installed if you ran the installation script.
 
-There you can add the icons on your desktop but much more important is changing your windows manager
+<b>Tips regarding graphics experience of the end-user</b>
 
-You can choose between 7 window manager but actually three big names
+
+
+Regarding graphics I should mention a specific program <b>mate-tweak</b> that was also installed if you ran the installation script.
+
+There you can add the icons on your desktop but much more important is changing your <b>windows manager</b>!
+Which is actually a big deal.
+
+You can choose between 7 window manager but actually between three big names and their options
 
 	- marco
 	- metacity
@@ -95,11 +110,14 @@ You can choose between 7 window manager but actually three big names
 ![Screenshots](http://i.imgur.com/kuUYQFY.png)
 
 
-Compiz has also a configuration application called Compiz Config Settings Manager. That is installed during installation.
+Compiz has also a configuration application called Compiz Config Settings Manager. 
+That is installed during installation.
 
 
 
 ![Screenshots](http://i.imgur.com/iHabmnk.png)
+
+
 
 
 #2 Software installation
@@ -365,7 +383,9 @@ Move your scripts in the somewhat hidden folder and you will see them in the con
 
 ![Screenshots](http://i.imgur.com/ZldwBtO.png)
 
-Do also check out the caja-actions configuration tool.
+Also check out the caja-actions configuration tool.
+
+![Screenshots](http://i.imgur.com/V1HVV0z.png)
 
 If you so like to do, you can also choose to open folders with thunar if installed. You can select it in the preferred applications.
 
