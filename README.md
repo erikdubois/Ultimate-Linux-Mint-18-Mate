@@ -99,7 +99,25 @@ Check on Nvidia.com which driver you should use.
 
 Wait for the installation and reboot.
 
+Regarding graphics I should mention a specific program mate-tweak that was also installed if you ran the installation script.
 
+There you can add the icons on your desktop but much more important is changing your windows manager
+
+You can choose between 7 window manager but actually three big names
+
+	- marco
+	- metacity
+	- compiz
+
+
+![Screenshots](http://i.imgur.com/kuUYQFY.png)
+
+
+Compiz has also a configuration application called Compiz Config Settings Manager.
+
+
+
+![Screenshots](http://i.imgur.com/iHabmnk.png)
 
 
 #2 Software installation
@@ -365,7 +383,15 @@ Move your scripts in the somewhat hidden folder and you will see them in the con
 
 ![Screenshots](http://i.imgur.com/ZldwBtO.png)
 
+Do also check out the caja-actions configuration tool.
 
+If you so like to do, you can also choose to open folders with thunar if installed. You can select it in the preferred applications.
+
+![Screenshots](http://i.imgur.com/xGTY1b3.png)
+
+Thunar has its own way to use custom actions for your personal scripting.
+
+By the by nemo file manager is also possible.
 
 
 8. Themes and Icons

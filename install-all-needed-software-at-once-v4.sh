@@ -125,7 +125,9 @@ rm google-chrome-stable_current_amd64.deb
 sudo apt-get install -y catfish clementine curl dropbox focuswriter frei0r-plugins geary gpick
 sudo apt-get install -y glances gparted hardinfo inkscape kazam nemo-dropbox
 sudo apt-get install -y openshot ppa-purge screenruler screenfetch scrot shutter slurm
-sudo apt-get install -y sublime-text terminator thunar variety vlc vnstat winbind  
+sudo apt-get install -y sublime-text terminator thunar variety vlc vnstat winbind
+
+sudo apt-get install -y mate-tweak  
 
 #software out of selection
 
