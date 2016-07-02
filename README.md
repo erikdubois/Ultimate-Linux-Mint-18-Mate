@@ -52,24 +52,6 @@ Type in the terminal
 ![Screenshots](http://i.imgur.com/8LzKIxg.png)
 
 
-<b>Mate</b>
-
-
-The very latest mate version can be installed on your system.
-
-TO DO ?????????????????????????????????????
-
-Run the script
-
-	- ./latest-mate.sh
-
-The script will add a resource.
-
-	# sudo add-apt-repository 
-	# sudo apt-get update 
-	# sudo apt-get 
-
-
 
 <b>Nvidia</b>
 
@@ -113,7 +95,7 @@ You can choose between 7 window manager but actually three big names
 ![Screenshots](http://i.imgur.com/kuUYQFY.png)
 
 
-Compiz has also a configuration application called Compiz Config Settings Manager.
+Compiz has also a configuration application called Compiz Config Settings Manager. That is installed during installation.
 
 
 
