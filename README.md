@@ -147,43 +147,65 @@ Some Examples!
 More documentation on http://erikdubois.be
 
 
-![Screenshots](http://i.imgur.com/zEuHycm.png)
+![Screenshots](http://i.imgur.com/8byVgu9.jpg)
 
 
-
-![Screenshots](http://i.imgur.com/zHK5zhf.png)
-
+![Screenshots](http://i.imgur.com/pH1TAxp.jpg)
 
 
-![Screenshots](http://i.imgur.com/m8COELQ.png)
+![Screenshots](http://i.imgur.com/0BnKVxM.jpg) 
 
 
-Older examples on a previous version of Linux Mint.
+![Screenshots](http://i.imgur.com/Q0XyHD8.jpg) 
 
 
-
-![Screenshots](http://i.imgur.com/l0Ecx5O.png) 
-
-
-![Screenshots](http://i.imgur.com/pv7bBsW.png) 
+![Screenshots](http://i.imgur.com/P225CHt.jpg) 
 
 
-![Screenshots](http://i.imgur.com/pNDgmJ7.png) 
+![Screenshots](http://i.imgur.com/ZDeo5NS.jpg) 
 
 
-![Screenshots](http://i.imgur.com/g6mccId.png) 
+![Screenshots](http://i.imgur.com/LnmI6aT.jpg) 
 
 
-![Screenshots](http://i.imgur.com/jtToMq7.png) 
+![Screenshots](http://i.imgur.com/QPsbJ1D.jpg) 
+
+Sardi Flexible made red with script - 5 sec max
+
+![Screenshots](http://i.imgur.com/T4RqPVa.jpg) 
 
 
-![Screenshots](http://i.imgur.com/s5GY5gG.png) 
+![Screenshots](http://i.imgur.com/MymbJOH.jpg)
 
 
-![Screenshots](http://i.imgur.com/KlTeQK7.png) 
+![Screenshots](http://i.imgur.com/G2c0Ltz.jpg)
 
 
-![Screenshots](http://i.imgur.com/lrQ27Xs.jpg)
+![Screenshots](http://i.imgur.com/aMwMFt4.jpg)
+
+
+![Screenshots](http://i.imgur.com/Amylne4.jpg)
+
+
+![Screenshots](http://i.imgur.com/xSTPZBp.jpg)
+
+
+![Screenshots](http://i.imgur.com/3wHkm38.jpg)
+
+
+![Screenshots](http://i.imgur.com/iHsKMvG.jpg)
+
+
+![Screenshots](http://i.imgur.com/LBiDHCq.jpg)
+
+
+![Screenshots](http://i.imgur.com/Owa0p4n.jpg)
+
+
+![Screenshots](http://i.imgur.com/xUyNYfF.jpg)
+
+
+![Screenshots](http://i.imgur.com/Kqo5pud.jpg)
 
 
 
@@ -209,6 +231,9 @@ Also the older icon set can be installed via
 
 
 ![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
+
+
+![Screenshots](http://i.imgur.com/VmdJNk3.jpg)
 
 
 
@@ -272,7 +297,11 @@ At https://github.com/erikdubois/Aureola you can check out these conky's.
 
 ![Screenshots](http://i.imgur.com/97Q8RO1.jpg)
 
+
+
 ![Screenshots](http://i.imgur.com/K5yYqEa.png)
+
+
 
 ![Screenshots](http://i.imgur.com/9CxuMRZ.png)
 
