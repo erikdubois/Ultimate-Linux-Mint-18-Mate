@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -87,7 +87,10 @@ wget http://downloads.sourceforge.net/project/sardi/sardi-icons-$version.tar.gz 
 cd /tmp/sardi
 tar -zxvf /tmp/sardi/sardi-icons-$version.tar.gz
 rm /tmp/sardi/sardi-icons-$version.tar.gz
-mkdir ~/.icons/
+
+# if there is no hidden folder conky then make one
+[ -d $HOME"/./icons" ] || mkdir -p $HOME"/./icons"
+
 cp -r /tmp/sardi/* ~/.icons/
 rm -rf /tmp/sardi
 
