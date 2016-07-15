@@ -70,17 +70,6 @@
 #
 ##################################################################################################################
 
-echo Let us check if your computer is up-to-date
-echo
-echo 
-sudo apt-get update -y
-sudo apt-get upgrade -y
-sudo apt-get autoclean -y
-sudo apt-get autoremove -y
-
-
-###############################################################################################
-
 
 # repo for grub-customizer
 # sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y
@@ -109,6 +98,19 @@ sudo apt-get update
 sudo apt-get install spotify-client -y
 
 
+
+###############################################################################################
+
+# donwloading and installing google chrome for netflix e.g.
+# echo downloading google chrome latest stable edition
+echo "downloading google chrome latest stable edition"
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt-get install -y libcurl3
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+rm google-chrome-stable_current_amd64.deb
+
+
+
 ##############################################################################################
 
 
@@ -121,19 +123,9 @@ rm sublime-text_build-3114_amd64.deb
 
 ###############################################################################################
 
-# donwloading and installing google chrome for netflix e.g.
-# echo downloading google chrome latest stable edition
-echo "downloading google chrome latest stable edition"
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt-get install -y libcurl3
-sudo dpkg -i google-chrome-stable_current_amd64.deb
-rm google-chrome-stable_current_amd64.deb
-
-###############################################################################################
-
 #software from 'normal' repositories
 sudo apt-get install -y catfish clementine curl dropbox focuswriter frei0r-plugins geary gpick
-sudo apt-get install -y glances gparted hardinfo inkscape kazam nemo-dropbox
+sudo apt-get install -y glances gparted hardinfo inkscape kazam 
 sudo apt-get install -y openshot ppa-purge screenruler screenfetch scrot shutter slurm
 sudo apt-get install -y  terminator thunar variety vlc vnstat winbind
 
@@ -159,15 +151,16 @@ sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip sharutils rar
 ###############################################################################################
 
 #themes
-sudo apt-get install numix-gtk-theme numix-icon-theme-circle -y 
+sudo apt-get install numix-gtk-theme numix-icon-theme-circle -y
+sudo apt-get install -y breeze-cursor-theme xcursor-themes
+sudo apt-get install vertex-theme -y
 
 ###############################################################################################
 
 #ending
 mkdir $HOME/Upload
-sudo apt-get -y update
-sudo apt-get -f -y install
-sudo apt-get -y upgrade
-sudo apt-get -y autoremove
-sudo apt-get -y autoclean
-
+#sudo apt-get -y update
+#sudo apt-get -f -y install
+#sudo apt-get -y upgrade
+#sudo apt-get -y autoremove
+#sudo apt-get -y autoclean

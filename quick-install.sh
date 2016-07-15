@@ -61,6 +61,7 @@ sh icons-super-ultra-flat-numix-latest.sh
 
 
 sh install-gtk-arc-theme-suse-latest.sh
+sh install-gtk-blackbird-latest.sh
 
 sh install-zsh-latest.sh
 sudo chsh erik -s /bin/zsh
@@ -72,6 +73,11 @@ sh hardcodefixer-latest.sh
 # last icons that can not be fixed with hardcodefixer
 sh mint-backup-fix-icons-latest.sh
 
-#sh install-cinnamon-latest.sh
+
 #sh update-to-the-last-stable-4.6.3-latest.sh
 
+# Add to panel
+# system monitor
+# force quit button
+# mate netspeed
+#
