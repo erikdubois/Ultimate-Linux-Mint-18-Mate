@@ -256,7 +256,9 @@ Also the older icon set can be installed via
 3. Aureola Conky
 ---------------
 
-This is an exercise in writing conky configurations in lua syntax.
+This is an exercise in writing conky configurations in lua syntax. Starting version 1.10 and later versions the new config file uses Lua syntax.
+
+Some of the aurora conky's have been ported to the new lua syntax.
 
 At https://github.com/erikdubois/Aureola you can check out these conky's.
 
@@ -274,12 +276,16 @@ At https://github.com/erikdubois/Aureola you can check out these conky's.
 ![Screenshots](http://i.imgur.com/tNWsDsN.jpg)
 
 
+More information about conky:
+
+https://github.com/brndnmtthws/conky/wiki/Configuration-Settings
+
 
 4. Aurora Conky
 ---------------
 	
 
-Aurora is a collection of conky's I like. 
+Aurora is a collection of conky's I like. These have the old (non-lua) syntax for version 1.9 and earliers. 
 
 Download it from http://sourceforge.net/projects/auroraconkytheme/.
 
@@ -323,6 +329,10 @@ This github script is explained more in depth on my website.
 
 http://erikdubois.be/
 
+
+More information about conky
+
+https://github.com/brndnmtthws/conky/wiki/Configuration-Settings
 
 
 5. ZSH and Oh-my-sh
@@ -398,37 +408,8 @@ Thunar has its own way to use custom actions for your personal scripting.
 
 
 
-8. Themes and Icons
------------------
 
-The most fun goes in changing the look of your system. 
-
-I have gathered a lot of themes, icons and cursors I like and bundled them here.
-
-https://github.com/erikdubois/themes-icons-pack
-
-I have been creative for a while. 
-
-This is linux mint 17.1 cinnamon.
-
-![Screenshots](http://i.imgur.com/irJ3xHz.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/CCgpuCE.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/9drRjAL.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/FacEzmD.jpg)
-
-
-
-
-9. Mscore fonts
+8. Mscore fonts
 --------------------
 If you miss the microsoft fonts ... Verdana, Courrier, Comic, Arial, ...
 Use TAB and ENTER to install it.
@@ -441,7 +422,7 @@ Use TAB and ARROWS to navigate and ENTER to conclude.
 
 
 
-10. The matrix
+9. The matrix
 ----------------
 
 Matrix (screen with green letters as seen in the movie)
@@ -456,7 +437,7 @@ Try
 
 
 
-11.Shutter
+10.Shutter
 -----------
 
 Shutter is a program to make screenshots to post on websites.
