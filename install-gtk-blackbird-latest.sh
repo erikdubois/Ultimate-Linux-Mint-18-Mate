@@ -71,28 +71,34 @@
 ##################################################################################################################
 
 
-########################################
-########        I C O N S      #########
-########################################
+#https://github.com/shimmerproject/Blackbird
+
+echo "################################################################"
+echo "Checking if git is installed"
+echo "Install git for an easy installation"
 
 
+	# G I T
+
+	# check if git is installed
+	if which git > /dev/null; then
+		echo "git was installed. Proceding..."
+
+		else
+
+		echo "################################################################"
+		echo "installing git for this script to work"
+		echo "################################################################"
+
+	  	sudo apt-get install git -y
+		  	
+	fi
 
 
-# S A R D I
-# from sourceforge 
-
-version="5.6-0"
-
-wget http://downloads.sourceforge.net/project/sardi/sardi-icons-$version.tar.gz -P /tmp/sardi
-cd /tmp/sardi
-tar -zxvf /tmp/sardi/sardi-icons-$version.tar.gz
-rm /tmp/sardi/sardi-icons-$version.tar.gz
-
-# if there is no hidden folder conky then make one
-[ -d $HOME"/./icons" ] || mkdir -p $HOME"/.icons"
-
-cp -r /tmp/sardi/* ~/.icons/
-rm -rf /tmp/sardi
+git clone https://github.com/shimmerproject/Blackbird /tmp/Blackbird
+mkdir ~/.themes/Blackbird
+cp -r /tmp/Blackbird/* ~/.themes/Blackbird
+rm -rf /tmp/Blackbird
 
 
 

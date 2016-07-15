@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -71,34 +71,20 @@
 ##################################################################################################################
 
 
-echo Let us check if your computer is up-to-date
-echo
-echo 
-sudo apt-get update -y
-sudo apt-get upgrade -y
-sudo apt-get autoclean -y
-sudo apt-get autoremove -y
+
+# C O N K Y   A U R O R A
+# from sourceforge 
+
+wget https://sourceforge.net/projects/auroraconkytheme/files/Aurora_v3.0.4.tar.gz -P /tmp/aurora
+cd /tmp/aurora
+tar -zxvf /tmp/aurora/Aurora_v3.0.4.tar.gz
+rm /tmp/aurora/Aurora_v3.0.4.tar.gz
+echo "Hidden folder .conky is created if it is not there"
+[ -d "~/.conky" ] || mkdir -p $HOME/".conky"
+cp -r /tmp/aurora/* ~/.conky/
 
 
-############################################################################
 
-# repo for boot-repair
-sudo add-apt-repository -y ppa:yannubuntu/boot-repair
-
-
-# getting new info of this new repo
-sudo apt-get -y update
-
-# installing
-sudo apt-get install -y boot-repair
-
-
-############################################################################
-
-#ending
-
-sudo apt-get -y update
-sudo apt-get -f -y install
-sudo apt-get -y upgrade
-sudo apt-get -y autoremove
-sudo apt-get -y autoclean
+echo "################################################################"
+echo "###################    T H E   E N D      ######################"
+echo "################################################################"

@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -71,35 +71,18 @@
 ##################################################################################################################
 
 
-echo Let us check if your computer is up-to-date
-echo
-echo 
-sudo apt-get update -y
-sudo apt-get upgrade -y
-sudo apt-get autoclean -y
-sudo apt-get autoremove -y
+#https://github.com/horst3180/arc-theme
+
+#rm -rf arc-theme
+
+sudo apt-get install build-essential autoconf libgtk-3.0 libgtk-3-dev -y
+git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme
+./autogen.sh --prefix=/usr
+sudo make install
+
+# sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
 
-############################################################################
-
-# repo for spotify
-sudo add-apt-repository "deb http://repository.spotify.com stable non-free" -y
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys D2C19886
-
-
-# getting new info of this new repo
-sudo apt-get -y update
-
-# installing
-sudo apt-get install -y spotify-client -y
-
-
-############################################################################
-
-#ending
-
-sudo apt-get -y update
-sudo apt-get -f -y install
-sudo apt-get -y upgrade
-sudo apt-get -y autoremove
-sudo apt-get -y autoclean
+echo "################################################################"
+echo "###################    T H E   E N D      ######################"
+echo "################################################################"

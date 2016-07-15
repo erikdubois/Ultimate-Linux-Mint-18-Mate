@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -71,17 +71,26 @@
 ##################################################################################################################
 
 
+########################################
+########        I C O N S      #########
+########################################
 
-# C O N K Y   A U R O R A
+
+
+
+# S A R D I
 # from sourceforge 
 
-wget https://sourceforge.net/projects/auroraconkytheme/files/Aurora_v3.0.4.tar.gz -P /tmp/aurora
-cd /tmp/aurora
-tar -zxvf /tmp/aurora/Aurora_v3.0.4.tar.gz
-rm /tmp/aurora/Aurora_v3.0.4.tar.gz
-echo "Hidden folder .conky is created if it is not there"
-[ -d "~/.conky" ] || mkdir -p $HOME/".conky"
-cp -r /tmp/aurora/* ~/.conky/
+wget -O /tmp/sardi.tar.gz "https://sourceforge.net/projects/sardi/files/latest/download?source=files"
+mkdir /tmp/sardi
+tar -zxvf /tmp/sardi.tar.gz -C /tmp/sardi
+rm /tmp/sardi.tar.gz
+
+# if there is no hidden folder conky then make one
+[ -d $HOME"/./icons" ] || mkdir -p $HOME"/.icons"
+
+cp -r /tmp/sardi/* ~/.icons/
+rm -rf /tmp/sardi
 
 
 

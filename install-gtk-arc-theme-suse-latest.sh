@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -70,15 +70,10 @@
 #
 ##################################################################################################################
 
+wget http://download.opensuse.org/repositories/home:Horst3180/xUbuntu_16.04/Release.key
+sudo apt-key add - < Release.key 
+rm ./Release.key
 
-# Y L T R A  F L A T  I C O N S
-
-git clone https://github.com/erikdubois/yltra-flat-icon-theme /tmp/Yltra-Flat
-cp -r /tmp/Yltra-Flat/* ~/.icons/
-rm -rf /tmp/Yltra-Flat
-
-
-
-echo "################################################################"
-echo "###################    T H E   E N D      ######################"
-echo "################################################################"
+sudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/Horst3180/xUbuntu_16.04/ /' >> /etc/apt/sources.list.d/arc-theme.list"
+sudo apt-get update
+sudo apt-get install arc-theme

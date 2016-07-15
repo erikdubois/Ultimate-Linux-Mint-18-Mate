@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -70,34 +70,16 @@
 #
 ##################################################################################################################
 
-echo Let us check if your computer is up-to-date
-echo
-echo 
-sudo apt-get update -y
-sudo apt-get upgrade -y
-sudo apt-get autoclean -y
-sudo apt-get autoremove -y
 
 
-############################################################################
-
-# repo for grub-customizer
-sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y
+# repo for boot-repair
+sudo add-apt-repository -y ppa:yannubuntu/boot-repair
 
 
 # getting new info of this new repo
 sudo apt-get -y update
 
 # installing
-sudo apt-get install -y grub-customizer
+sudo apt-get install -y boot-repair
 
 
-############################################################################
-
-#ending
-
-sudo apt-get -y update
-sudo apt-get -f -y install
-sudo apt-get -y upgrade
-sudo apt-get -y autoremove
-sudo apt-get -y autoclean

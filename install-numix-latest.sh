@@ -24,7 +24,7 @@
 #
 # Current project : Ultimate-Linux-Mint-18
 #
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18-mate
+# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -71,18 +71,15 @@
 ##################################################################################################################
 
 
-# Y L T R A  F L A T  I C O N S
 
-echo "Installing git"
-
-sudo apt install git
-
-git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix /tmp/Super-Ultra-Flat-Numix-Remix
-cp -r /tmp/Super-Ultra-Flat-Numix-Remix/* ~/.icons/
-rm -rf /tmp/Super-Ultra-Flat-Numix-Remix
+# repo for numix themes
+sudo add-apt-repository ppa:numix/ppa -y
 
 
+# getting new info of this new repo
+sudo apt-get -y update
 
-echo "################################################################"
-echo "###################    T H E   E N D      ######################"
-echo "################################################################"
+# installing
+sudo apt-get install -y numix-gtk-theme numix-icon-theme-circle
+
+
