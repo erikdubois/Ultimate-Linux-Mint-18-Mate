@@ -253,8 +253,29 @@ Also the older icon set can be installed via
 
 
 
+3. Aureola Conky
+---------------
 
-3. Aurora Conky
+This is an exercise in writing conky configurations in lua syntax.
+
+At https://github.com/erikdubois/Aureola you can check out these conky's.
+
+
+![Screenshots](http://i.imgur.com/97Q8RO1.jpg)
+
+
+![Screenshots](http://i.imgur.com/K5yYqEa.png)
+
+
+
+![Screenshots](http://i.imgur.com/9CxuMRZ.png)
+
+
+![Screenshots](http://i.imgur.com/tNWsDsN.jpg)
+
+
+
+4. Aurora Conky
 ---------------
 	
 
@@ -301,25 +322,6 @@ Then you take the script apart and you write your own code.
 This github script is explained more in depth on my website.
 
 http://erikdubois.be/
-
-
-4. Aureola Conky
----------------
-
-This is an exercise in writing conky configurations in lua syntax.
-
-At https://github.com/erikdubois/Aureola you can check out these conky's.
-
-
-![Screenshots](http://i.imgur.com/97Q8RO1.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/K5yYqEa.png)
-
-
-
-![Screenshots](http://i.imgur.com/9CxuMRZ.png)
 
 
 
