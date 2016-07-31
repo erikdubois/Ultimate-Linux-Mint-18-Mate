@@ -71,17 +71,7 @@
 ##################################################################################################################
 
 
-# repo for grub-customizer
-# sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y
-
-# repo for numix themes
-sudo add-apt-repository ppa:numix/ppa -y
-
-# repo for boot-repair
-sudo add-apt-repository -y ppa:yannubuntu/boot-repair
-
-
-###############################################################################################
+##############################################################################################
 
 # Spotify
 
@@ -127,7 +117,7 @@ rm sublime-text_build-3114_amd64.deb
 sudo apt-get install -y catfish clementine curl dropbox focuswriter frei0r-plugins geary gpick
 sudo apt-get install -y glances gparted hardinfo inkscape kazam 
 sudo apt-get install -y openshot ppa-purge screenruler screenfetch scrot shutter slurm
-sudo apt-get install -y  terminator thunar variety vlc vnstat winbind
+sudo apt-get install -y terminator thunar variety vlc vnstat winbind
 
 sudo apt-get install -y mate-tweak  
 
@@ -152,7 +142,7 @@ sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip sharutils rar
 
 #themes
 sudo apt-get install numix-gtk-theme numix-icon-theme-circle -y
-sudo apt-get install -y breeze-cursor-theme xcursor-themes
+sudo apt-get install breeze-cursor-theme xcursor-themes -y
 sudo apt-get install vertex-theme -y
 
 ###############################################################################################
