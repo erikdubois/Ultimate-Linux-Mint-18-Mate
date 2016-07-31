@@ -73,7 +73,7 @@ sh hardcodefixer-latest.sh
 sh hardcodefixer-personal-latest.sh
 
 # last icons that can not be fixed with hardcodefixer
-sh mint-backup-fix-icons-latest.sh
+sh hardcodefixer-personal-latest.sh
 
 
 #sh update-to-the-last-stable-4.6.3-latest.sh
