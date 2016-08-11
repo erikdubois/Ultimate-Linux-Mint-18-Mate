@@ -174,16 +174,6 @@ Screenshots for reference to the older versions of Sardi.
 ![Screenshots](http://i.imgur.com/8byVgu9.jpg)
 
 
-
-
-
-
-
-
-
-
-
-
 ![Screenshots](http://i.imgur.com/ZDeo5NS.jpg) 
 
 
@@ -200,15 +190,7 @@ Sardi Flexible made red with script - 5 sec max
 ![Screenshots](http://i.imgur.com/MymbJOH.jpg)
 
 
-![Screenshots](http://i.imgur.com/G2c0Ltz.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/3wHkm38.jpg)
-
-
 ![Screenshots](http://i.imgur.com/iHsKMvG.jpg)
-
 
 
 ![Screenshots](http://i.imgur.com/Kqo5pud.jpg)
