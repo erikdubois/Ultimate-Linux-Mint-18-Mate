@@ -203,22 +203,12 @@ Sardi Flexible made red with script - 5 sec max
 ![Screenshots](http://i.imgur.com/G2c0Ltz.jpg)
 
 
-![Screenshots](http://i.imgur.com/aMwMFt4.jpg)
-
-
-![Screenshots](http://i.imgur.com/Amylne4.jpg)
-
-
-![Screenshots](http://i.imgur.com/xSTPZBp.jpg)
-
 
 ![Screenshots](http://i.imgur.com/3wHkm38.jpg)
 
 
 ![Screenshots](http://i.imgur.com/iHsKMvG.jpg)
 
-
-![Screenshots](http://i.imgur.com/LBiDHCq.jpg)
 
 
 ![Screenshots](http://i.imgur.com/Kqo5pud.jpg)
