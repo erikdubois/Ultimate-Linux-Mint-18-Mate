@@ -161,9 +161,13 @@ For ease of installation I use the script
 
 
 
+
 Some Examples!
 More documentation on http://erikdubois.be
 
+Sardi icons are best followed on google +
+
+[Sardi collection](https://plus.google.com/u/0/collection/YFP-LB)
 
 ![Screenshots](http://i.imgur.com/8byVgu9.jpg)
 
