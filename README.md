@@ -1,6 +1,8 @@
 # Ultimate Linux Mint 18 Mate
 
+Sardi v 7.4.3 at [Sourceforge](https://sourceforge.net/projects/sardi/files/)
 
+![Screenshots](http://i.imgur.com/gfPEwdG.jpg)
 
 
 Let us first take a screenshot of the initial look of Linux Mint 18 Mate after a clean install.
