@@ -161,25 +161,27 @@ For ease of installation I use the script
 
 
 
-
-Some Examples!
 More documentation on http://erikdubois.be
 
-Sardi icons are best followed on google +
+The Sardi icons are best followed on google +.The latest developments will be shown there.
 
 [Sardi collection](https://plus.google.com/u/0/collection/YFP-LB)
+
+
+Screenshots for reference to the older versions of Sardi.
+
 
 ![Screenshots](http://i.imgur.com/8byVgu9.jpg)
 
 
-![Screenshots](http://i.imgur.com/pH1TAxp.jpg)
 
 
 
-![Screenshots](http://i.imgur.com/Q0XyHD8.jpg) 
 
 
-![Screenshots](http://i.imgur.com/P225CHt.jpg) 
+
+
+
 
 
 ![Screenshots](http://i.imgur.com/ZDeo5NS.jpg) 
@@ -217,12 +219,6 @@ Sardi Flexible made red with script - 5 sec max
 
 
 ![Screenshots](http://i.imgur.com/LBiDHCq.jpg)
-
-
-![Screenshots](http://i.imgur.com/Owa0p4n.jpg)
-
-
-![Screenshots](http://i.imgur.com/xUyNYfF.jpg)
 
 
 ![Screenshots](http://i.imgur.com/Kqo5pud.jpg)
