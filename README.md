@@ -200,24 +200,12 @@ Sardi Flexible made red with script - 5 sec max
 
 
 
-2. Super Ultra Flat Numix Remix
+2. Surfn icons
 --------------------------------- 
-
-This icon theme is based on an older one i.e. yltra flat also on github.
-
-This is an exercise in changing the directories from scalable/... to 22x22/...
-
-Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
-
 
 For ease of installation I use the script
 
-	- icons-super-ultra-flat-numix-vx.sh
-
-Also the older icon set can be installed via
-
-	-icons-yltra-flat-vx.sh
-
+	- icons-surfn-latest.sh
 
 
 ![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
